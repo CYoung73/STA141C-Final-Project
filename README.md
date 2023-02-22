@@ -1,3 +1,5 @@
 # STA141C-Final-Project
 
-Dataset source: https://www.kaggle.com/datasets/adityakadiwal/water-potability?datasetId=1292407&sortBy=voteCount
+White wine quality.
+
+Dataset from https://archive.ics.uci.edu/ml/datasets/Wine+Quality.
