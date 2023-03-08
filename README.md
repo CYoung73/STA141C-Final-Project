@@ -1,5 +1,5 @@
 # STA141C-Final-Project
 
-White wine quality.
+Concrete compressive strength.
 
-Dataset from https://archive.ics.uci.edu/ml/datasets/Wine+Quality.
+Dataset from https://archive.ics.uci.edu/ml/datasets/concrete+compressive+strength.
